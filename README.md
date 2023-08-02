@@ -1,8 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Antes de correr el servidor, instalar los paquetes necesarios:
+```bash
+npm install
+```
 
-First, run the development server:
+Luego, para correr el servidor:
 
 ```bash
 npm run dev
